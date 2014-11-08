@@ -1,4 +1,4 @@
-Etherpad on OpenShift
+Etherpad on OpenShift1
 =====================
 
 This git repository helps you get up and running quickly with latest Etherpad
